@@ -1,1 +1,2 @@
 # Diabetes_Prediction_Project
+This project aims to build a smart system that can predict diabetes using Machine Learning with Python. We'll use important health information like Pregnancy details, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, and Age to create a model. This model will learn from data to accurately predict if someone is at risk of getting diabetes. We'll test it thoroughly to make sure it works well for different people.
